@@ -1,0 +1,4 @@
+#q1
+print('''where is Tim's notebook \nprint('What to Print')\nstive said"you are right"''')
+#q2
+print("Sum= ",int(input("Please enter the first number: "))+int(input("Pleses enter the second number: ")))
